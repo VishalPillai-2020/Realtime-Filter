@@ -3,7 +3,7 @@ function pageRedirect(){
  
   
   setTimeout(function(){
-   window.location = "index1.html";
+   window.location = "page.html";
   },delay);
   
  }
